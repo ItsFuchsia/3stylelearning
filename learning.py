@@ -2,7 +2,7 @@ import random
 
 def chooseset():
     state = input("input C for corners, E for edges\n")
-    if "c" in state.lower():
+    if "C" in state.upper():
         print("testing corners")
         return "corners.txt"
     else:
