@@ -1,0 +1,15 @@
+SB: (M U' M' U')2
+SD: (M U M' U)2
+AB: [R2 U' : [S , R2']]
+AD: [L2' U : [S' , L2]]
+AE: [U' M U' : [M' , U2]]
+AJ: [R' U' : [S , R2']]
+AL: [L U : [S' , L2']]
+AM: [U M U : [M' , U2']]
+AR: [L' U' : [L2 , S']]
+AS: [U' R' B R : [S , R2']]
+AT: [R U : [R2' , S]]
+AU: [U2 , M']
+AV: [U' : [S , R2']]
+AW: [M , U2]
+AX: [U : [S' , L2']]
